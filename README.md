@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adoany Tesome</h1>
+<h1 align="center">Hi 👋, I'm Adoany Teshome</h1>
 <h3 align="center">A passionate Software Developer | Network Engineer | Cyber-Security Engineer</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adonayteshome&show_icons=true&locale=en&layout=compact" alt="adonayteshome" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adonayteshome&" alt="adonayteshome" /></p>
