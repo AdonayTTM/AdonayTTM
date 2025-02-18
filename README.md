@@ -26,11 +26,11 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 📊 GitHub Stats
 
-![AdonayTeshome's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdonayTeshome&show_icons=true&theme=radical)
+![AdonayTTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdonayTTM&show_icons=true&theme=radical)
 
 ## 🚀 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdonayTeshome&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdonayTTM&layout=compact&theme=radical)
 
 ## 🔥 Contributions
 
