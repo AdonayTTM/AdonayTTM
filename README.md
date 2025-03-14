@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🚀 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdonayTTM&layout=compact&theme=radical)
 
 ## 🔥 Contributions
 
