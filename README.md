@@ -1,4 +1,4 @@
-# Hi there, I'm Adonay T. 👋
+# Hi there
 
 Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects. Here's a bit about me:
 
